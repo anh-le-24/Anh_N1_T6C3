@@ -1,6 +1,5 @@
 <h2>Xin chao moi nguoi</h2>
 </br>
-![image](https://github.com/user-attachments/assets/9c1e8ca7-7fbf-48ba-a33c-6143e4ed6924)
 <ul>thanh vien cua nhom minh:</ul>
   <li>Le Van Anh</li>
   <li>Le Hoang Minh Khoi</li>
