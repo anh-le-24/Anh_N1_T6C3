@@ -1,4 +1,4 @@
-<h2>Xin chào mọi người</h2>
+<h2>Xin chào mọi người mình là Anh thuộc nhóm 1</h2>
 </br>
 <h3>Thành viên của nhóm mình</h3>
   <li>Le Van Anh</li>
