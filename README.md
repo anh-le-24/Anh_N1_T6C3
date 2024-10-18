@@ -8,7 +8,7 @@ Tích hợp chức năng tìm kiếm và lọc nhà hàng theo nhiều tiêu ch�
 Cho phép người dùng đặt bàn và nhận xác nhận ngay lập tức.
 Cung cấp thông tin chi tiết về nhà hàng, thực đơn và đánh giá từ khách hàng.
 </br>
-<img src="https://github.com/user-attachments/assets/32cebd31-f4b4-4eff-b3ec-ddac13e628c1"/>
+<img src="https://github.com/user-attachments/assets/32cebd31-f4b4-4eff-b3ec-ddac13e628c1" style="text-align:center;"/>
 </br>
 <h3>Đây là các thành viên của nhóm mình</h3>
   <li>Phan Long Phi - Leader</li>
