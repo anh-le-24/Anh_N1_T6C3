@@ -10,7 +10,7 @@
 </ul>
 
 <div style="text-align:center; display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/32cebd31-f4b4-4eff-b3ec-ddac13e628c1" alt="5 thành viên nhóm" style="border-radius: 10px; width: 80%; max-width: 600px;" />
+  <img src="https://github.com/user-attachments/assets/ce543875-7613-4459-a892-97c83e950203" alt="5 thành viên nhóm" style="border-radius: 10px; width: 80%; max-width: 600px;" />
 </div>
 
 <h3 style="color: #FF9800;">Các thành viên trong nhóm</h3>
