@@ -70,6 +70,3 @@ Xin chào! Mình là Anh, và mình rất vui được chia sẻ một chút v�
 
 <p>Cảm ơn bạn đã đọc! Hy vọng chúng ta có thể kết nối và cùng nhau học hỏi.</p>
 
---- 
-
-Nếu cần thêm chỉnh sửa hay thông tin nào khác, hãy cho mình biết nhé!
