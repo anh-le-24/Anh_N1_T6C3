@@ -1,9 +1,10 @@
 <h2>Xin chào mọi người mình là Anh thuộc nhóm 1</h2>
 <img src="https://github.com/user-attachments/assets/32cebd31-f4b4-4eff-b3ec-ddac13e628c1"/>
 </br>
-<h3>Thành viên của nhóm mình</h3>
-  <li>Le Van Anh</li>
-  <li>Le Hoang Minh Khoi</li>
+
+<h3>Đây là các thành viên của nhóm mình</h3>
+  <li>Lê Văn Anh</li>
+  <li>Lê Hoàng Minh Khôi</li>
   <li>Phan Long Phi</li>
-  <li>Hoang Ngan Ha</li>
-  <li>Nguyen Huynh Phu Quy</li>
+  <li>Hoàng Ngân Hà</li>
+  <li>Nguyễn Huỳnh Phú Quý</li>
