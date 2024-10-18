@@ -63,7 +63,7 @@
 
 <h3>Liên hệ</h3>
 <ul>
-  <li><strong>Email:</strong> anhle241003@gmail.com</li>
+  <li><span>Email:</span> <a href=anhle241003@gmail.com</li>
 </ul>
 
 <p>Cảm ơn bạn đã đọc! Hy vọng chúng ta có thể kết nối và cùng nhau học hỏi.</p>
