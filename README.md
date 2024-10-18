@@ -9,11 +9,11 @@
   <li>Cung cấp thông tin chi tiết về nhà hàng, thực đơn và đánh giá từ khách hàng.</li>
 </ul>
 
-<div style="text-align:center; dislay: flex;">
+<div style="text-align:center; display: flex;">
   <img src="https://github.com/user-attachments/assets/32cebd31-f4b4-4eff-b3ec-ddac13e628c1" alt="5 thành viên nhóm" />
 </div>
 
-<h3>Đây là các thành viên của nhóm mình</h3>
+<h3>Các thành viên trong nhóm</h3>
 <ul>
   <li>Phan Long Phi - Leader</li>
   <li>Lê Hoàng Minh Khôi - Scrum Master</li>
@@ -29,40 +29,47 @@
   <li>Cơ sở dữ liệu: SQL Server</li>
 </ul>
 
-</br>
 <h2>Về bản thân mình</h2>
-Xin chào! Mình là Anh, và tôi rất vui được chia sẻ một chút về bản thân.
+Xin chào! Mình là Anh, và mình rất vui được chia sẻ một chút về bản thân.
 
-## Thông tin cá nhân
+<h3>Thông tin cá nhân</h3>
+<ul>
+  <li><strong>Tên:</strong> Lê Văn Anh</li>
+  <li><strong>Tuổi:</strong> 20</li>
+  <li><strong>Đến từ:</strong> Đăk Lăk</li>
+  <li><strong>Sở thích:</strong> Đọc sách, du lịch, nấu ăn, thể thao, chơi game</li>
+</ul>
 
-- **Tên:** Lê Văn Anh
-- **Tuổi:** 20
-- **Đến từ:** Đăk lăk
-- **Sở thích:** Đọc sách, du lịch, nấu ăn, thể thao,chơi game
+<h3>Học vấn</h3>
+<ul>
+  <li><strong>Trường đại học:</strong> ĐH Ngoại Ngữ và Tin Học - HUFLIT</li>
+  <li><strong>Chuyên ngành:</strong> Công nghệ thông tin</li>
+  <li><strong>Năm tốt nghiệp:</strong> Hiện tại đang học năm 3</li>
+</ul>
 
-## Học vấn
+<h3>Kinh nghiệm làm việc</h3>
+<ul>
+  <li><strong>Công ty hiện tại:</strong> Chưa có</li>
+  <li><strong>Kinh nghiệm trước đó:</strong> Chưa có</li>
+</ul>
 
-- **Trường đại học:** ĐH Ngoại Ngữ và Tin Học - HUFLIT
-- **Chuyên ngành:** Công nghệ thông tin
-- **Năm tốt nghiệp:** Hiện tại đang học năm 3
+<h3>Kỹ năng</h3>
+<ul>
+  <li><strong>Backend:</strong> C#, Java, SQL Server</li>
+  <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
+  <li>Hiện tại kỹ năng của mình đều nằm ở mức trung bình.</li>
+</ul>
 
-## Kinh nghiệm làm việc
+<h3>Mục tiêu</h3>
+<p>Mình đang tìm kiếm cơ hội để phát triển kỹ năng, tham gia dự án mới, có nhiều cơ hội học hỏi hơn,...</p>
 
-- **Công ty hiện tại:** Hiện chưa có
-- **Kinh nghiệm trước đó:** hiện chưa có
+<h3>Liên hệ</h3>
+<ul>
+  <li><strong>Email:</strong> anhle241003@gmail.com</li>
+</ul>
 
-## Kỹ năng
-BE: C#,Java, SQL Server
-FE: HTML, CSS, Javascript
-- Hiện tại kỹ năng của mình đều nằm ở mứ trung bình
-## Mục tiêu
+<p>Cảm ơn bạn đã đọc! Hy vọng chúng ta có thể kết nối và cùng nhau học hỏi.</p>
 
-Tôi đang tìm kiếm cơ hội để phát triển kỹ năng, tham gia dự án mới, có nhiều cơ hội học hỏi hơn,...
+--- 
 
-## Liên hệ
-
-- **Email:** anhle241003@gmail.com
-
-Cảm ơn bạn đã đọc! Hy vọng chúng ta có thể kết nối và cùng nhau học hỏi.
-
----
+Nếu cần thêm chỉnh sửa hay thông tin nào khác, hãy cho mình biết nhé!
