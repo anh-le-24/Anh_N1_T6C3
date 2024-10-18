@@ -30,8 +30,6 @@
 </ul>
 
 <h2>Về bản thân mình</h2>
-Xin chào! Mình là Anh, và mình rất vui được chia sẻ một chút về bản thân.
-
 <h3>Thông tin cá nhân</h3>
 <ul>
   <li><strong>Tên:</strong> Lê Văn Anh</li>
