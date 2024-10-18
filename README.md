@@ -16,9 +16,9 @@
 <h3 style="color: #FF9800;">Các thành viên trong nhóm</h3>
 <ul style="list-style-type: square;">
   <li>🌟 Phan Long Phi - Leader</li>
-  <li>📅 Lê Hoàng Minh Khôi - Scrum Master</li>
-  <li>👨‍💻 Lê Văn Anh - Dev</li>
   <li>👨‍💻 Nguyễn Huỳnh Phú Quý - Dev</li>
+  <li>👨‍💻 Lê Văn Anh - Dev</li>
+  <li>📅 Lê Hoàng Minh Khôi - Scrum Master</li>
   <li>📋 Hoàng Ngân Hà - Product Owner</li>
 </ul>
 
