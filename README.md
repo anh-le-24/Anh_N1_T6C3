@@ -9,8 +9,8 @@
   <li>Cung cấp thông tin chi tiết về nhà hàng, thực đơn và đánh giá từ khách hàng.</li>
 </ul>
 
-<div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/32cebd31-f4b4-4eff-b3ec-ddac13e628c1" alt="Ảnh minh họa" />
+<div style="text-align:center; dislay: flex;">
+  <img src="https://github.com/user-attachments/assets/32cebd31-f4b4-4eff-b3ec-ddac13e628c1" alt="5 thành viên nhóm" />
 </div>
 
 <h3>Đây là các thành viên của nhóm mình</h3>
