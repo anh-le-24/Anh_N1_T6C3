@@ -1,5 +1,7 @@
 <h2>Xin chào mọi người mình là Anh thuộc nhóm 1</h2>
 </br>
+<img src="![image](https://github.com/user-attachments/assets/32cebd31-f4b4-4eff-b3ec-ddac13e628c1)"/>
+
 <h3>Thành viên của nhóm mình</h3>
   <li>Le Van Anh</li>
   <li>Le Hoang Minh Khoi</li>
